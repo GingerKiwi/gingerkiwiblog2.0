@@ -191,6 +191,10 @@ section,
   font-size: var(--fs-600);
 }
 
+.bold-pink {
+  font-weight: var(--fw-700);
+  color: var(--clr-primary-400);
+}
 
 /* //////////////////////
   Header
