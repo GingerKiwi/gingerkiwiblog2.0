@@ -9,7 +9,9 @@
     <link rel="stylesheet" href="/style.css">
 </head>
 <body>
+    {% include 'header.njk' %}
     <h1>{{ title }}</h1>
     {{ content | safe }}
+    {% include 'footer.njk' %}
 </body>
 </html>
