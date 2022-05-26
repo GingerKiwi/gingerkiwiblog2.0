@@ -1,7 +1,7 @@
 ---
 title: How Having Surgery for a Hole in My Retina Led to Teaching Myself Adobe Xp Yesterday - and To Being Sure That Web Development is the Right IT Career Direction
 author: Elizabeth McCready
-date: 2021-05-01
+date: 2021-05-27
 tags: ["post", "featured"]
 image: /assets/blog/article-1-ux01.png
 imageAlt: Initial prototype of teacher site — main dashboard for lesson planning. Branded/dark mode colour scheme. All the places that say “Te reo” need to be translated into Te Reo Māori.
@@ -24,7 +24,7 @@ I was taught the warning signs of retinal detachment, including auras, flashes o
 
 We moved to New Zealand the year after my mom’s surgery. My father was from there, and the climate and pace of life would be much better for my mom’s eye health. Lifting heavy things — like shovelling snow — can be bad for people who have had detached retinas because heavy lifting causes increased eye pressure. Also the focus on a balanced lifestyle and cleaner food supply are much better for overall health. My mom still had her sight, but lost her night vision and was very sensitive to bright light. She could still drive, but only during daylight hours.
 
-<!-- PICTURE ![Picture Title](/assets/blog/article-1-discovery-school.png) -->
+PICTURE ![Picture Title](/assets/blog/article-1-discovery-school.png)
 caption: The author riding a pony at Discovery School in Whitby, Wellington Region, New Zealand in the 1980s. I’d hid my glasses for the photo. I’m wearing a hand knit wool cardigan my Nana made me. She taught me to knit when I moved to Aotearoa New Zealand. She was my first “art and design teacher”.
 
 Soon after moving to Wellington, New Zealand I saw a wonderful ophthalmologist who gave me my first pair of glasses. He was extremely British, had been knighted, and his office was so posh, interesting, and comfortable — less like a doctor’s office and more like a barrister’s. He was also very kind and good with kids. So even though I wasn’t completely happy with needing glasses, he helped me feel better and a bit less scared.
