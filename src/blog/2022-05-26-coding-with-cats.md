@@ -5,7 +5,7 @@ date: 2022-05-26
 tags: ['post', 'featured']
 image: /assets/blog/2022-05-26_boo-on-my-lap-coding-with-cats.jpg
 imageAlt: Grey long haired cat sitting on a lap and over one arm of someone trying to type on a keyboard.
-description: The fun and typos when coding with cats - especially Boo the cat.
+description: The fun and typos when coding with cats - especially Boo the cat. He's sweet, cuddly, and very cute. But he's got a sixth sense for whenever his human is typing "npm ... ",  "config ...", or any stage of coding where a single typo will lead to hours of debugging.
 ---
 It's wonderful working from home. I've been doing it on and off for decades. However, there are challenges as well as anyone with pets (or kids, or partners) will know well. I have three rescue cats. Though nine times out of then it's Boo that interrupts Zoom meetings, and distracts me right at the exact minute I need to avoid a typo. 
 
