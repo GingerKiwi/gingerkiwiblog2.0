@@ -5,8 +5,7 @@ date: 2021-05-01
 tags: ["post", "featured"]
 image: /assets/blog/article-1-ux01.png
 imageAlt: Initial prototype of teacher site — main dashboard for lesson planning. Branded/dark mode colour scheme. All the places that say “Te reo” need to be translated into Te Reo Māori.
-description: How Having Surgery for a Hole in My Retina Led to Teaching Myself Adobe Xd Yesterday …
-… and To Being Certain That Wed Development is the Right Career Direction
+description: How Having Surgery for a Hole in My Retina Led to Teaching Myself Adobe Xd Yesterday, and To Being Certain That Wed Development is the Right Career Direction
 
 ---
 [orignally published on medium.com[
