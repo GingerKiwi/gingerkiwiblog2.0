@@ -1,7 +1,7 @@
 ---
 title: Coding With Cats
 author: Elizabeth McCready
-date: 2021-06-01
+date: 2022-05-26
 tags: ['post', 'featured']
 image: /assets/blog/2022-05-26_boo-on-my-lap-coding-with-cats.jpg
 imageAlt: Grey long haired cat sitting on a lap and over one arm of someone trying to type on a keyboard.
