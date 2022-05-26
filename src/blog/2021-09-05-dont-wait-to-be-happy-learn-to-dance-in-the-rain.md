@@ -1,0 +1,26 @@
+---
+title: Don’t Wait to Be Happy ~ Learn to Dance in the Rain.
+author: Elizabeth McCready
+date: 2021-09-05
+tags: ['post', 'featured']
+image: /assets/blog/learn-to-dance-in-the-rain.jpeg
+imageAlt: Black and white photograph of a young woman dancing in the rain. Original photo licensed under Creative Commons Attribution by BrightStarPhoto21
+description: In 2004, I worked at an international boarding school as one of two residence activities co-ordinators and the girls residence life supervisor. The girls there really demonstrated that ~ Life isn’t about waiting for the storm (or the pandemic) to pass. It’s learning to dance in the rain.
+---
+
+In 2004, I worked at an international boarding school as one of two residence activities co-ordinators and the girls residence life supervisor. One of the main goals for my position was to get the students from different parts of the world socialising and speaking English to each other both on campus and on local field trips. The school made a 12 passenger van available and I was allowed to arrange trips on weekends and some evenings to Lake Ontario, and local restaurants, parks, and shops.
+
+While there were a few challenges with getting students from different parts of the world comfortable with socialising with each other, it was much easier to get the boys together than the girls. The boys seemed to bond relatively easily from learning how to order food in English, and on getting outside and kicking a ball around. The boys even developed shared “in jokes” from experiences such as when one boy learned that what he heard as “Ya-wan spezal saz onnit?” was the sub shop staff asking if he wanted special sauce on his footlong sub at a submarine sandwich shop. (It’s one of those you had to be there things — but there was even a bit of a rap song created.)
+
+However, there was a lot of conflict and micro-agressions between the different groups of girls — especially between the girls from Asia and the girls from West Africa. Except during classes, the Asian and South American girls spoke their home languages — and therefor were missing out on learning conversational English. The West African girls tended to switch from English to various African languages (e.g. Swahili) when the Asian girls were around. The small group of South American girls kept to themselves and spoke Spanish or Portuguese. To get that sorted, I arranged a meeting one Friday evening. — An evening that ended up being one of the most memorable during the two decades of my former career in education, and has made a permanent impact on my life. Sometimes the best way to learn things is to be a teacher.
+
+During the meeting, the Chinese girls said that they didn’t think the African girls took school seriously enough because they saw them dancing, singing, and playing games — they were just too loud. The South Korean girls agreed, but also said that they felt the African students lumped into the same group as the Chinese girls, and the Chinese girls ignored them and treated them like “party girls” — because (according to both the South Korean girls and the Chinese girls) the Korean girls are “loud”. The West African girls took offence at being labeled as not caring about education, because school is very important to them. They did study hard. One girl commented 
+*“But there’s so much disease, and violence, and death, and war back home that we celebrate life and our culture. Music and dance are very important. Education is really important. Living life and being happy is as important as school.”*
+
+The few South American girls felt isolated, and not confident enough in their English to speak to other teens. Both the Asian girls and the West African girls realised how excluded the South American girls felt because there was so few of them, and their spoken English wasn’t anywhere near the African girls, and they felt excluded from the large groups of giggling girls speaking “Chinese”. (Like the West African girls they didn’t realise that what they heard as “Chinese” was actually Mandarin, Cantonese, and Korean.)
+
+The conversation continued, conflicts got mostly sorted out, and everyone had a better understanding of each other. The African girls learned about the pressure that both the family and cultural pressure that Chinese girls and South Korean girls felt — especially those that were only children. They also learned about the differences between teen culture in South Korea and China. Many of the girls ended up bonding over not having seen their families in almost, or in a few cases over, two years because of the 2003 SARS outbreak. The meeting ended with a bit of a dance party in the study hall and plans for a dance and a knitting/crafting club.
+
+It was that comment and way of looking at life of the West African girls had that has stuck with me, and is a large focus in my career change — especially since the pandemic started. “There’s so much disease, and violence, and death, and war that I’m celebrating life and culture. Music and dance are very important. Living life and being happy is as important as launching my second career (in tech) and university.”
+
+*~ Life isn’t about waiting for the storm (or the pandemic) to pass. It’s learning to dance in the rain.*
