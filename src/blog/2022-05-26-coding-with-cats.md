@@ -1,5 +1,5 @@
 ---
-title: Coding With Cats
+title: Coding With Cats - or Why This Blogsite Was Broken
 author: Elizabeth McCready
 date: 2022-05-26
 tags: ['post', 'featured']
