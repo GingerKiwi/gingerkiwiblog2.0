@@ -3,14 +3,19 @@ title: How Having Surgery for a Hole in My Retina Led to Teaching Myself Adobe X
 author: Elizabeth McCready
 date: 2021-05-01
 tags: ["post", "featured"]
-image: /assets/blog/article-1.jpg
-imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+image: /assets/blog/article-1-ux01.png
+imageAlt: Initial prototype of teacher site — main dashboard for lesson planning. Branded/dark mode colour scheme. All the places that say “Te reo” need to be translated into Te Reo Māori.
+description: How Having Surgery for a Hole in My Retina Led to Teaching Myself Adobe Xd Yesterday …
+… and To Being Certain That Wed Development is the Right Career Direction
+
 ---
+[orignally published on medium.com[
+
+*note: May 26-27th transfering to this site and adding photos*
 
 I’ve known since I was four years old that I’m at high risk for losing my sight. During a paediatrician’s visit, my mom asked my paediatrician to take a quick look at her eyes because she thought she might need new glasses. After taking a quick look at her eyes with a retinnoscope (that handheld instrument with a light that doctors look through to see the inside of your eye) he said:
 
-“Don’t move. Don’t sneeze. I’m calling your husband and we’re taking you to Toronto General Hospital.”
+*“Don’t move. Don’t sneeze. I’m calling your husband and we’re taking you to Toronto General Hospital.”*
 
 My mom’s retinas were partially detached. Her left eye only had a few attached nerve fibres left. If she’d sneezed, picked up anything, or moved suddenly she would have definitely gone blind in her left eye, and made her right eye way worse. After a week in Toronto General she became one of the first people in Canada to have laser surgery on both eyes at once.
 
@@ -20,7 +25,7 @@ I was taught the warning signs of retinal detachment, including auras, flashes o
 
 We moved to New Zealand the year after my mom’s surgery. My father was from there, and the climate and pace of life would be much better for my mom’s eye health. Lifting heavy things — like shovelling snow — can be bad for people who have had detached retinas because heavy lifting causes increased eye pressure. Also the focus on a balanced lifestyle and cleaner food supply are much better for overall health. My mom still had her sight, but lost her night vision and was very sensitive to bright light. She could still drive, but only during daylight hours.
 
-PICTURE
+PICTURE ![Picture Title](/assets/blog/article-1-discovery-school.png)
 caption: The author riding a pony at Discovery School in Whitby, Wellington Region, New Zealand in the 1980s. I’d hid my glasses for the photo. I’m wearing a hand knit wool cardigan my Nana made me. She taught me to knit when I moved to Aotearoa New Zealand. She was my first “art and design teacher”.
 
 Soon after moving to Wellington, New Zealand I saw a wonderful ophthalmologist who gave me my first pair of glasses. He was extremely British, had been knighted, and his office was so posh, interesting, and comfortable — less like a doctor’s office and more like a barrister’s. He was also very kind and good with kids. So even though I wasn’t completely happy with needing glasses, he helped me feel better and a bit less scared.
