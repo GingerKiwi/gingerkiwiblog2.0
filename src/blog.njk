@@ -4,22 +4,14 @@ layout: 'base.njk'
 ---
        
 <div class="section container">
-<h1 class="section-title">Recent articles</h1>
+<h1 class="section-title">Recent Articles</h1>
 
 </div>
  <ul role="list" class="articles__list flow">
    {# loops through the posts #}
 
-   {%- for post in collections.post -%} 
-  <li>
-    <article class="snippet">
-      <img src = "{{ post.data.image }}" alt="{{ post.data.image.Alt }}" class="snippet__image">
-      <h3 class="snippet_title"> {{ post.data.title }}</h3>
-      <p class="snippet__meta">by <span>{{ post.data.author }}</span></p>
-      <p class="snippet__body">{{ post.data.description }}</p>
-      <a href="" class="btn btn--primary">Continue Reading</a>
-    </article>
-  </li>
+   {%- for post in collections.post | reverse -%} 
+    {%  include 'article-snippet.njk' %}
    {%- endfor -%}
 
  </ul>

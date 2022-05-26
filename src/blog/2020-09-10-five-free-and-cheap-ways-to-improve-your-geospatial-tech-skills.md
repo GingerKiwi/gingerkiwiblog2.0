@@ -1,6 +1,6 @@
 ---
 title: Five Free and Cheap Ways to Improve Your Geospatial Technology Skills and Learn GIS to Advance Your Career
-author: Elizabeth McCready
+author: Elizabeth McCready for GoGeomatics Canada
 date: 2020-09-10
 tags: ["post", "featured"]
 image: /assets/blog/1567px-Piggy_Bank_On_Pennies_5915295831-1536x1174.jpeg

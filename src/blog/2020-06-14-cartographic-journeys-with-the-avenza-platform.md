@@ -2,13 +2,13 @@
 title: GeoIgnite 2020 Video - Cartographic Journeys with the Avenza Platform ~ Nick Burchell – Director- Avenza
 author: Elizabeth McCready - for GoGeomatics Canada
 date: 2020-07-14
-tags: ["post", "featured"]
+tags: ["post",]
 image: /assets/blog/article-5.jpg
 imageAlt: This is a test
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---
 
-GeoIgnite 2020 Video: Cartographic Journeys with the Avenza Platform ~ Nick Burchell – Director- Avenza
+
 Session Name: Cartographic Journeys with the Avenza Platform
 Presenter: Nick Burchell ~ Director, QA & Customer Services at Avenza Systems, Inc.
 https://www.linkedin.com/in/nicholasburchell
