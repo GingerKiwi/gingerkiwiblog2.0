@@ -29,7 +29,7 @@ layout: 'base.njk'
   <div class="container flow">
     <h2 class="section-title text-center ">Featured articles</h2>
     <p class="text-center">Here's some of my favourite and most recent articles, including ones published elsewhere.</p>
-      <p>More articles are being added during May and June 2022.</p>
+      <p class="text-center">More articles are being added during May and June 2022.</p>
     <ul role="list" class="articles__list flow"><li>
       {%- for post in collections.featured | reverse -%} 
         {%  include 'article-snippet.njk' %}
