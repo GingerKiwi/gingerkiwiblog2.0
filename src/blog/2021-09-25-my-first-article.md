@@ -1,9 +1,9 @@
 ---
-title: How Having Surgery for a Hole in My Retina Led to Teaching Myself Adobe Xp Yesterday - and To Being Sure That UI/UX Design is the Right IT Career Direction
+title: How Having Surgery for a Hole in My Retina Led to Teaching Myself Adobe Xp Yesterday - and To Being Sure That Web Development is the Right IT Career Direction
 author: Elizabeth McCready
 date: 2021-05-01
 tags: ["post", "featured"]
-image: /assets/blog/article-1-ux01.jpg
+image: /assets/blog/article-1.jpg
 imageAlt: This is a test
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---
