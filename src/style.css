@@ -133,6 +133,7 @@ h3 {
   font-family: var(--ff-heading);
   font-weight: var(--fw-900);
   line-height: 1.1;
+  padding: .5rem, 0;
 }
 
 strong {
